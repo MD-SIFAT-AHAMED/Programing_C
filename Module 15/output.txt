@@ -1,0 +1,10 @@
+0th index ar value -> 10
+0th index ar address -> 0061FF0C
+0th index ar address -> 0061FF0C
+
+1th index ar address -> 0061FF10
+1th index ar value -> 20
+20
+20
+20
+20
